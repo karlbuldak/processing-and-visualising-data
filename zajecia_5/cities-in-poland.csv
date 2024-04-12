@@ -1,0 +1,914 @@
+City;Region;Province;Areakm2;Population
+Bolesławiec;bolesławiecki;dolnośląskie;23.57;39464
+Nowogrodziec;bolesławiecki;dolnośląskie;16.1;4227
+Bielawa;dzierżoniowski;dolnośląskie;36.21;30987
+Dzierżoniów;dzierżoniowski;dolnośląskie;20.07;34168
+Niemcza;dzierżoniowski;dolnośląskie;19.81;3107
+Pieszyce;dzierżoniowski;dolnośląskie;63.61;9586
+Piława Górna;dzierżoniowski;dolnośląskie;20.93;6702
+Głogów;głogowski;dolnośląskie;35.11;68836
+Góra;górowski;dolnośląskie;13.65;12316
+Wąsosz;górowski;dolnośląskie;3.24;2774
+Bolków;jaworski;dolnośląskie;7.68;5253
+Jawor;jaworski;dolnośląskie;18.8;23767
+Jelenia Góra;Jelenia Góra[a];dolnośląskie;109.22;81408
+Karpacz;jeleniogórski;dolnośląskie;37.99;4921
+Kowary;jeleniogórski;dolnośląskie;37.39;11408
+Piechowice;jeleniogórski;dolnośląskie;43.22;6483
+Szklarska Poręba;jeleniogórski;dolnośląskie;75.44;6829
+Kamienna Góra;kamiennogórski;dolnośląskie;18.04;19889
+Lubawka;kamiennogórski;dolnośląskie;22.44;6236
+Bystrzyca Kłodzka;kłodzki;dolnośląskie;10.74;10389
+Duszniki-Zdrój;kłodzki;dolnośląskie;22.28;4837
+Kłodzko;kłodzki;dolnośląskie;24.84;27792
+Kudowa-Zdrój;kłodzki;dolnośląskie;33.9;10249
+Lądek-Zdrój;kłodzki;dolnośląskie;20.32;5873
+Międzylesie;kłodzki;dolnośląskie;14.37;2709
+Nowa Ruda;kłodzki;dolnośląskie;37.05;23030
+Polanica-Zdrój;kłodzki;dolnośląskie;17.22;6599
+Radków;kłodzki;dolnośląskie;15.03;2474
+Stronie Śląskie;kłodzki;dolnośląskie;2.38;5934
+Szczytna;kłodzki;dolnośląskie;80.38;5328
+Legnica;Legnica[a];dolnośląskie;56.29;101343
+Chojnów;legnicki;dolnośląskie;5.32;13972
+Prochowice;legnicki;dolnośląskie;9.85;3644
+Leśna;lubański;dolnośląskie;8.56;4648
+Lubań;lubański;dolnośląskie;16.12;21785
+Olszyna;lubański;dolnośląskie;20.26;4469
+Świeradów-Zdrój;lubański;dolnośląskie;20.72;4308
+Lubin;lubiński;dolnośląskie;40.77;73658
+Ścinawa;lubiński;dolnośląskie;13.54;5767
+Gryfów Śląski;lwówecki;dolnośląskie;6.63;6863
+Lubomierz;lwówecki;dolnośląskie;8.05;1949
+Lwówek Śląski;lwówecki;dolnośląskie;16.65;9115
+Mirsk;lwówecki;dolnośląskie;14.66;4025
+Wleń;lwówecki;dolnośląskie;7.22;1829
+Milicz;milicki;dolnośląskie;13.5;11669
+Bierutów;oleśnicki;dolnośląskie;8.36;4980
+Międzybórz;oleśnicki;dolnośląskie;6.41;2346
+Oleśnica;oleśnicki;dolnośląskie;20.96;37355
+Syców;oleśnicki;dolnośląskie;17.05;10407
+Twardogóra;oleśnicki;dolnośląskie;8.29;6794
+Jelcz-Laskowice;oławski;dolnośląskie;17.06;15910
+Oława;oławski;dolnośląskie;27.36;32356
+Chocianów;polkowicki;dolnośląskie;9;8122
+Polkowice;polkowicki;dolnośląskie;23.74;22558
+Przemków;polkowicki;dolnośląskie;6.17;6412
+Strzelin;strzeliński;dolnośląskie;10.34;12546
+Wiązów;strzeliński;dolnośląskie;9.16;2299
+Środa Śląska;średzki;dolnośląskie;14.94;9342
+Jaworzyna Śląska;świdnicki;dolnośląskie;4.34;5191
+Strzegom;świdnicki;dolnośląskie;20.49;16643
+Świdnica;świdnicki;dolnośląskie;21.76;58802
+Świebodzice;świdnicki;dolnośląskie;30.43;23197
+Żarów;świdnicki;dolnośląskie;7.04;6893
+Oborniki Śląskie;trzebnicki;dolnośląskie;14.46;9070
+Prusice;trzebnicki;dolnośląskie;10.94;2256
+Trzebnica;trzebnicki;dolnośląskie;8.36;12970
+Żmigród;trzebnicki;dolnośląskie;9.49;6487
+Wałbrzych;Wałbrzych[a];dolnośląskie;84.7;116691
+Boguszów-Gorce;wałbrzyski;dolnośląskie;27.02;16055
+Głuszyca;wałbrzyski;dolnośląskie;16.21;6583
+Jedlina-Zdrój;wałbrzyski;dolnośląskie;17.45;4975
+Mieroszów;wałbrzyski;dolnośląskie;10.31;4248
+Szczawno-Zdrój;wałbrzyski;dolnośląskie;14.74;5754
+Brzeg Dolny;wołowski;dolnośląskie;17.2;12458
+Wołów;wołowski;dolnośląskie;18.54;12578
+Wrocław;Wrocław[a];dolnośląskie;292.82;634487
+Kąty Wrocławskie;wrocławski;dolnośląskie;8.61;6549
+Siechnice;wrocławski;dolnośląskie;15.63;6381
+Sobótka;wrocławski;dolnośląskie;32.2;6978
+Bardo;ząbkowicki;dolnośląskie;4.71;2705
+Ząbkowice Śląskie;ząbkowicki;dolnośląskie;13.67;15585
+Ziębice;ząbkowicki;dolnośląskie;15.07;9052
+Złoty Stok;ząbkowicki;dolnośląskie;7.73;2902
+Bogatynia;zgorzelecki;dolnośląskie;59.88;18299
+Pieńsk;zgorzelecki;dolnośląskie;9.92;5943
+Węgliniec;zgorzelecki;dolnośląskie;8.73;2984
+Zawidów;zgorzelecki;dolnośląskie;6.07;4315
+Zgorzelec;zgorzelecki;dolnośląskie;15.88;31532
+Świerzawa;złotoryjski;dolnośląskie;1.76;2339
+Wojcieszów;złotoryjski;dolnośląskie;32.17;3814
+Złotoryja;złotoryjski;dolnośląskie;11.51;16085
+Aleksandrów Kujawski;aleksandrowski;kujawsko-pomorskie;7.23;12487
+Ciechocinek;aleksandrowski;kujawsko-pomorskie;15.26;10719
+Nieszawa;aleksandrowski;kujawsko-pomorskie;9.79;1975
+Brodnica;brodnicki;kujawsko-pomorskie;23.15;28605
+Górzno;brodnicki;kujawsko-pomorskie;3.43;1430
+Jabłonowo Pomorskie;brodnicki;kujawsko-pomorskie;3.35;3848
+Koronowo;bydgoski;kujawsko-pomorskie;28.15;11384
+Solec Kujawski;bydgoski;kujawsko-pomorskie;18.68;15627
+Bydgoszcz;Bydgoszcz[a];kujawsko-pomorskie;175.98;357652
+Chełmno;chełmiński;kujawsko-pomorskie;13.56;20434
+Golub-Dobrzyń;golubsko-dobrzyński;kujawsko-pomorskie;7.5;12879
+Kowalewo Pomorskie;golubsko-dobrzyński;kujawsko-pomorskie;4.45;4266
+Grudziądz;Grudziądz[a];kujawsko-pomorskie;57.76;97176
+Łasin;grudziądzki;kujawsko-pomorskie;4.79;3372
+Radzyń Chełmiński;grudziądzki;kujawsko-pomorskie;1.78;1911
+Gniewkowo;inowrocławski;kujawsko-pomorskie;9.18;7278
+Inowrocław;inowrocławski;kujawsko-pomorskie;30.42;74564
+Janikowo;inowrocławski;kujawsko-pomorskie;9.51;9034
+Kruszwica;inowrocławski;kujawsko-pomorskie;6.64;9039
+Pakość;inowrocławski;kujawsko-pomorskie;3.46;5712
+Dobrzyń nad Wisłą;lipnowski;kujawsko-pomorskie;5.41;2256
+Lipno;lipnowski;kujawsko-pomorskie;10.99;14772
+Skępe;lipnowski;kujawsko-pomorskie;7.48;3623
+Mogilno;mogileński;kujawsko-pomorskie;8.32;12240
+Strzelno;mogileński;kujawsko-pomorskie;4.46;5747
+Kcynia;nakielski;kujawsko-pomorskie;6.84;4735
+Mrocza;nakielski;kujawsko-pomorskie;5.01;4377
+Nakło nad Notecią;nakielski;kujawsko-pomorskie;10.62;19064
+Szubin;nakielski;kujawsko-pomorskie;7.65;9551
+Piotrków Kujawski;radziejowski;kujawsko-pomorskie;9.76;4462
+Radziejów;radziejowski;kujawsko-pomorskie;5.69;5749
+Rypin;rypiński;kujawsko-pomorskie;10.96;16739
+Kamień Krajeński;sępoleński;kujawsko-pomorskie;3.65;2398
+Sępólno Krajeńskie;sępoleński;kujawsko-pomorskie;6.55;9361
+Więcbork;sępoleński;kujawsko-pomorskie;4.31;5994
+Nowe;świecki;kujawsko-pomorskie;3.57;6118
+Świecie;świecki;kujawsko-pomorskie;11.87;26276
+Toruń;Toruń[a];kujawsko-pomorskie;115.72;203158
+Chełmża;toruński;kujawsko-pomorskie;7.84;14905
+Tuchola;tucholski;kujawsko-pomorskie;17.69;13935
+Wąbrzeźno;wąbrzeski;kujawsko-pomorskie;8.53;13925
+Włocławek;Włocławek[a];kujawsko-pomorskie;84.32;113939
+Brześć Kujawski;włocławski;kujawsko-pomorskie;7.04;4690
+Chodecz;włocławski;kujawsko-pomorskie;1.39;1901
+Izbica Kujawska;włocławski;kujawsko-pomorskie;2.24;2730
+Kowal;włocławski;kujawsko-pomorskie;4.68;3538
+Lubień Kujawski;włocławski;kujawsko-pomorskie;2.31;1413
+Lubraniec;włocławski;kujawsko-pomorskie;1.97;3139
+Barcin;żniński;kujawsko-pomorskie;3.7;7655
+Janowiec Wielkopolski;żniński;kujawsko-pomorskie;3.04;4023
+Łabiszyn;żniński;kujawsko-pomorskie;2.89;4524
+Żnin;żniński;kujawsko-pomorskie;8.35;14173
+Międzyrzec Podlaski;bialski;lubelskie;20.03;17102
+Terespol;bialski;lubelskie;10.11;5794
+Biała Podlaska;Biała Podlaska[a];lubelskie;49.4;57471
+Biłgoraj;biłgorajski;lubelskie;21.1;26935
+Frampol;biłgorajski;lubelskie;4.67;1457
+Józefów;biłgorajski;lubelskie;5;2506
+Tarnogród;biłgorajski;lubelskie;10.69;3457
+Chełm;Chełm[a];lubelskie;35.28;64855
+Rejowiec Fabryczny;chełmski;lubelskie;14.28;4486
+Hrubieszów;hrubieszowski;lubelskie;33.03;18450
+Janów Lubelski;janowski;lubelskie;14.8;12110
+Modliborzyce;janowski;lubelskie;7.89;1430
+Krasnystaw;krasnostawski;lubelskie;42.13;19343
+Annopol;kraśnicki;lubelskie;7.73;2624
+Kraśnik;kraśnicki;lubelskie;26.1;35508
+Kock;lubartowski;lubelskie;16.78;3389
+Lubartów;lubartowski;lubelskie;13.91;22463
+Ostrów Lubelski;lubartowski;lubelskie;29.77;2191
+Bełżyce;lubelski;lubelskie;23.46;6700
+Bychawa;lubelski;lubelskie;6.69;5159
+Lublin;Lublin[a];lubelskie;147.47;341722
+Łęczna;łęczyński;lubelskie;19;19690
+Łuków;łukowski;lubelskie;35.75;30557
+Stoczek Łukowski;łukowski;lubelskie;9.15;2665
+Opole Lubelskie;opolski;lubelskie;15.12;8792
+Poniatowa;opolski;lubelskie;15.26;9553
+Parczew;parczewski;lubelskie;8.05;10913
+Kazimierz Dolny;puławski;lubelskie;30.44;2599
+Nałęczów;puławski;lubelskie;13.82;3892
+Puławy;puławski;lubelskie;50.49;48864
+Radzyń Podlaski;radzyński;lubelskie;19.31;16102
+Dęblin;rycki;lubelskie;38.33;16893
+Ryki;rycki;lubelskie;27.22;9877
+Piaski;świdnicki;lubelskie;8.44;2657
+Świdnik;świdnicki;lubelskie;20.35;40078
+Łaszczów;tomaszowski;lubelskie;5.01;2222
+Tomaszów Lubelski;tomaszowski;lubelskie;13.29;19824
+Tyszowce;tomaszowski;lubelskie;18.52;2170
+Włodawa;włodawski;lubelskie;17.97;13601
+Krasnobród;zamojski;lubelskie;6.99;3108
+Szczebrzeszyn;zamojski;lubelskie;29.12;5202
+Zwierzyniec;zamojski;lubelskie;6.19;3321
+Zamość;Zamość[a];lubelskie;30.34;65055
+Kostrzyn nad Odrą;gorzowski;lubuskie;46.14;18155
+Witnica;gorzowski;lubuskie;8.24;6923
+Gorzów Wielkopolski;Gorzów Wielkopolski[a];lubuskie;85.72;124145
+Gubin;krośnieński;lubuskie;20.68;16874
+Krosno Odrzańskie;krośnieński;lubuskie;8.15;11799
+Międzyrzecz;międzyrzecki;lubuskie;10.26;18459
+Skwierzyna;międzyrzecki;lubuskie;35.89;9805
+Trzciel;międzyrzecki;lubuskie;3.04;2501
+Bytom Odrzański;nowosolski;lubuskie;2.3;4420
+Kożuchów;nowosolski;lubuskie;5.94;9711
+Nowa Sól;nowosolski;lubuskie;21.8;39571
+Nowe Miasteczko;nowosolski;lubuskie;3.29;2897
+Cybinka;słubicki;lubuskie;5.29;2778
+Ośno Lubuskie;słubicki;lubuskie;8.01;3856
+Rzepin;słubicki;lubuskie;11.42;6660
+Słubice;słubicki;lubuskie;19.21;16914
+Dobiegniew;strzelecko-drezdenecki;lubuskie;5.69;3125
+Drezdenko;strzelecko-drezdenecki;lubuskie;10.72;10388
+Strzelce Krajeńskie;strzelecko-drezdenecki;lubuskie;5.54;10118
+Lubniewice;sulęciński;lubuskie;12.11;2076
+Sulęcin;sulęciński;lubuskie;8.56;10278
+Torzym;sulęciński;lubuskie;9.11;2571
+Świebodzin;świebodziński;lubuskie;16.93;22008
+Zbąszynek;świebodziński;lubuskie;3.58;5060
+Sława;wschowski;lubuskie;14.9;4299
+Szlichtyngowa;wschowski;lubuskie;1.55;1289
+Wschowa;wschowski;lubuskie;9.25;14265
+Zielona Góra;Zielona Góra[a];lubuskie;278.32;138512
+Babimost;zielonogórski;lubuskie;3.65;3999
+Czerwieńsk;zielonogórski;lubuskie;9.36;4159
+Kargowa;zielonogórski;lubuskie;4.55;3768
+Nowogród Bobrzański;zielonogórski;lubuskie;14.63;5151
+Sulechów;zielonogórski;lubuskie;6.88;17322
+Gozdnica;żagański;lubuskie;23.88;3228
+Iłowa;żagański;lubuskie;9.18;3996
+Małomice;żagański;lubuskie;5.37;3571
+Szprotawa;żagański;lubuskie;10.95;12252
+Żagań;żagański;lubuskie;40.38;26426
+Jasień;żarski;lubuskie;4.79;4449
+Lubsko;żarski;lubuskie;12.51;14451
+Łęknica;żarski;lubuskie;16.43;2578
+Żary;żarski;lubuskie;33.49;38527
+Bełchatów;bełchatowski;łódzkie;34.64;59305
+Zelów;bełchatowski;łódzkie;10.75;7785
+Brzeziny;brzeziński;łódzkie;21.58;12587
+Krośniewice;kutnowski;łódzkie;4.18;4498
+Kutno;kutnowski;łódzkie;33.59;45371
+Żychlin;kutnowski;łódzkie;8.68;8537
+Łask;łaski;łódzkie;15.67;17897
+Łęczyca;łęczycki;łódzkie;8.95;14660
+Łowicz;łowicki;łódzkie;23.42;29169
+Koluszki;łódzki wschodni;łódzkie;9.9;13370
+Rzgów;łódzki wschodni;łódzkie;16.77;3393
+Tuszyn;łódzki wschodni;łódzkie;23.25;7309
+Łódź;Łódź[a];łódzkie;293.25;706004
+Drzewica;opoczyński;łódzkie;4.81;3984
+Opoczno;opoczyński;łódzkie;24.75;21965
+Konstantynów Łódzki;pabianicki;łódzkie;27.25;17857
+Pabianice;pabianicki;łódzkie;32.99;67207
+Działoszyn;pajęczański;łódzkie;4.94;6147
+Pajęczno;pajęczański;łódzkie;20.23;6791
+Sulejów;piotrkowski;łódzkie;26.26;6360
+Wolbórz;piotrkowski;łódzkie;15.18;2362
+Piotrków Trybunalski;Piotrków Trybunalski[a];łódzkie;67.24;75608
+Poddębice;poddębicki;łódzkie;5.87;7771
+Uniejów;poddębicki;łódzkie;12.23;3051
+Kamieńsk;radomszczański;łódzkie;11.99;2875
+Przedbórz;radomszczański;łódzkie;6.08;3697
+Radomsko;radomszczański;łódzkie;51.43;47399
+Biała Rawska;rawski;łódzkie;9.53;3237
+Rawa Mazowiecka;rawski;łódzkie;14.28;17737
+Błaszki;sieradzki;łódzkie;1.62;2241
+Sieradz;sieradzki;łódzkie;51.22;43071
+Warta;sieradzki;łódzkie;10.85;3339
+Złoczew;sieradzki;łódzkie;13.79;3378
+Skierniewice;Skierniewice[a];łódzkie;34.6;48660
+Tomaszów Mazowiecki;tomaszowski;łódzkie;41.3;64513
+Wieluń;wieluński;łódzkie;16.87;23300
+Wieruszów;wieruszowski;łódzkie;5.97;8653
+Szadek;zduńskowolski;łódzkie;17.93;2024
+Zduńska Wola;zduńskowolski;łódzkie;24.57;43310
+Aleksandrów Łódzki;zgierski;łódzkie;13.82;21224
+Głowno;zgierski;łódzkie;19.84;14759
+Ozorków;zgierski;łódzkie;15.46;20068
+Stryków;zgierski;łódzkie;8.15;3536
+Zgierz;zgierski;łódzkie;42.33;57390
+Bochnia;bocheński;małopolskie;29.87;30104
+Nowy Wiśnicz;bocheński;małopolskie;4.97;2767
+Brzesko;brzeski;małopolskie;11.83;17090
+Czchów;brzeski;małopolskie;14.09;2364
+Alwernia;chrzanowski;małopolskie;8.88;3435
+Chrzanów;chrzanowski;małopolskie;38.32;37898
+Libiąż;chrzanowski;małopolskie;35.85;17284
+Trzebinia;chrzanowski;małopolskie;31.94;20127
+Dąbrowa Tarnowska;dąbrowski;małopolskie;23.07;11881
+Szczucin;dąbrowski;małopolskie;6.85;4189
+Biecz;gorlicki;małopolskie;17.71;4728
+Bobowa;gorlicki;małopolskie;7.18;3006
+Gorlice;gorlicki;małopolskie;23.53;28255
+Krzeszowice;krakowski;małopolskie;16.97;10173
+Skała;krakowski;małopolskie;2.97;3800
+Skawina;krakowski;małopolskie;20.5;24203
+Słomniki;krakowski;małopolskie;3.43;4402
+Świątniki Górne;krakowski;małopolskie;4.44;2400
+Kraków;Kraków[a];małopolskie;326.85;761873
+Limanowa;limanowski;małopolskie;18.7;15078
+Mszana Dolna;limanowski;małopolskie;27.1;7890
+Miechów;miechowski;małopolskie;15.49;11830
+Dobczyce;myślenicki;małopolskie;12.97;6449
+Myślenice;myślenicki;małopolskie;30.22;18346
+Sułkowice;myślenicki;małopolskie;16.46;6537
+Grybów;nowosądecki;małopolskie;16.95;6063
+Krynica-Zdrój;nowosądecki;małopolskie;39.68;10992
+Muszyna;nowosądecki;małopolskie;24.43;5028
+Piwniczna-Zdrój;nowosądecki;małopolskie;38.3;5967
+Stary Sącz;nowosądecki;małopolskie;15;9040
+Nowy Targ;nowotarski;małopolskie;51.07;33598
+Rabka-Zdrój;nowotarski;małopolskie;36.31;13082
+Szczawnica;nowotarski;małopolskie;32.9;5972
+Nowy Sącz;Nowy Sącz[a];małopolskie;57.58;83853
+Bukowno;olkuski;małopolskie;64.59;10336
+Olkusz;olkuski;małopolskie;25.65;36477
+Wolbrom;olkuski;małopolskie;10.12;8823
+Brzeszcze;oświęcimski;małopolskie;19.04;11560
+Chełmek;oświęcimski;małopolskie;8.27;9198
+Kęty;oświęcimski;małopolskie;23.05;19062
+Oświęcim;oświęcimski;małopolskie;30;39444
+Zator;oświęcimski;małopolskie;11.52;3700
+Nowe Brzesko;proszowicki;małopolskie;7.26;1667
+Proszowice;proszowicki;małopolskie;7.33;6158
+Jordanów;suski;małopolskie;21.03;5305
+Maków Podhalański;suski;małopolskie;20.12;5980
+Sucha Beskidzka;suski;małopolskie;27.65;9414
+Ciężkowice;tarnowski;małopolskie;9.99;2496
+Radłów;tarnowski;małopolskie;16.83;2766
+Ryglice;tarnowski;małopolskie;25.15;2870
+Tuchów;tarnowski;małopolskie;18.1;6724
+Wojnicz;tarnowski;małopolskie;8.5;3401
+Zakliczyn;tarnowski;małopolskie;4.02;1661
+Żabno;tarnowski;małopolskie;11.13;4214
+Tarnów;Tarnów[a];małopolskie;72.38;111376
+Zakopane;tatrzański;małopolskie;84.26;27556
+Andrychów;wadowicki;małopolskie;10.33;20993
+Kalwaria Zebrzydowska;wadowicki;małopolskie;5.5;4603
+Wadowice;wadowicki;małopolskie;10.54;19254
+Białobrzegi;białobrzeski;mazowieckie;7.51;7110
+Wyśmierzyce;białobrzeski;mazowieckie;16.84;921
+Ciechanów;ciechanowski;mazowieckie;32.78;44585
+Glinojeck;ciechanowski;mazowieckie;7.37;3113
+Garwolin;garwoliński;mazowieckie;22.08;17174
+Łaskarzew;garwoliński;mazowieckie;15.35;4910
+Pilawa;garwoliński;mazowieckie;6.62;4484
+Żelechów;garwoliński;mazowieckie;12.13;4061
+Gostynin;gostyniński;mazowieckie;32.4;18947
+Grodzisk Mazowiecki;grodziski;mazowieckie;13.19;30180
+Milanówek;grodziski;mazowieckie;13.44;16353
+Podkowa Leśna;grodziski;mazowieckie;10.13;3845
+Grójec;grójecki;mazowieckie;8.57;16534
+Mogielnica;grójecki;mazowieckie;12.98;2352
+Nowe Miasto nad Pilicą;grójecki;mazowieckie;11.25;3890
+Warka;grójecki;mazowieckie;26.77;11777
+Kozienice;kozienicki;mazowieckie;10.45;18064
+Legionowo;legionowski;mazowieckie;13.54;54272
+Serock;legionowski;mazowieckie;13.43;4175
+Lipsko;lipski;mazowieckie;15.7;5732
+Łosice;łosicki;mazowieckie;23.74;7102
+Warszawa;m. st. Warszawa[a];mazowieckie;517.24;1735442
+Maków Mazowiecki;makowski;mazowieckie;10.28;10077
+Różan;makowski;mazowieckie;6.66;2729
+Halinów;miński;mazowieckie;2.84;3675
+Kałuszyn;miński;mazowieckie;12.3;2938
+Mińsk Mazowiecki;miński;mazowieckie;13.18;40211
+Mrozy;miński;mazowieckie;7.73;3528
+Sulejówek;miński;mazowieckie;19.31;19411
+Mława;mławski;mazowieckie;34.8;30968
+Nasielsk;nowodworski;mazowieckie;12.57;7629
+Nowy Dwór Mazowiecki;nowodworski;mazowieckie;28.21;28364
+Zakroczym;nowodworski;mazowieckie;19.97;3231
+Myszyniec;ostrołęcki;mazowieckie;11.22;3294
+Ostrołęka;Ostrołęka[a];mazowieckie;28.63;52611
+Brok;ostrowski;mazowieckie;28.06;1984
+Ostrów Mazowiecka;ostrowski;mazowieckie;22.27;22792
+Józefów;otwocki;mazowieckie;23.91;20137
+Karczew;otwocki;mazowieckie;28.12;10082
+Otwock;otwocki;mazowieckie;47.31;45025
+Góra Kalwaria;piaseczyński;mazowieckie;13.67;11658
+Konstancin-Jeziorna;piaseczyński;mazowieckie;17.74;17311
+Piaseczno;piaseczyński;mazowieckie;16.22;45567
+Tarczyn;piaseczyński;mazowieckie;5.23;4089
+Płock;Płock[a];mazowieckie;88.04;122224
+Drobin;płocki;mazowieckie;9.65;2963
+Gąbin;płocki;mazowieckie;27.95;4183
+Wyszogród;płocki;mazowieckie;12.97;2705
+Płońsk;płoński;mazowieckie;11.6;22379
+Raciąż;płoński;mazowieckie;8.4;4647
+Brwinów;pruszkowski;mazowieckie;10.1;13178
+Piastów;pruszkowski;mazowieckie;5.76;22870
+Pruszków;pruszkowski;mazowieckie;19.19;60068
+Chorzele;przasnyski;mazowieckie;17.51;2972
+Przasnysz;przasnyski;mazowieckie;25.16;17296
+Przysucha;przysuski;mazowieckie;7.02;6068
+Pułtusk;pułtuski;mazowieckie;23.07;19236
+Radom;Radom[a];mazowieckie;111.8;217201
+Iłża;radomski;mazowieckie;15.83;4991
+Pionki;radomski;mazowieckie;18.4;19168
+Skaryszew;radomski;mazowieckie;27.49;4335
+Siedlce;Siedlce[a];mazowieckie;31.86;76603
+Mordy;siedlecki;mazowieckie;4.54;1797
+Sierpc;sierpecki;mazowieckie;18.59;18453
+Sochaczew;sochaczewski;mazowieckie;26.19;37201
+Kosów Lacki;sokołowski;mazowieckie;11.57;2152
+Sokołów Podlaski;sokołowski;mazowieckie;17.51;18743
+Szydłowiec;szydłowiecki;mazowieckie;21.89;12049
+Błonie;warszawski zachodni;mazowieckie;9.09;12479
+Łomianki;warszawski zachodni;mazowieckie;8.4;16617
+Ożarów Mazowiecki;warszawski zachodni;mazowieckie;8.13;10880
+Łochów;węgrowski;mazowieckie;13.39;6809
+Węgrów;węgrowski;mazowieckie;35.51;12795
+Kobyłka;wołomiński;mazowieckie;19.64;21341
+Marki;wołomiński;mazowieckie;26.15;29722
+Radzymin;wołomiński;mazowieckie;23.39;11698
+Tłuszcz;wołomiński;mazowieckie;7.91;8041
+Wołomin;wołomiński;mazowieckie;17.24;37389
+Ząbki;wołomiński;mazowieckie;10.98;32844
+Zielonka;wołomiński;mazowieckie;79.48;17459
+Wyszków;wyszkowski;mazowieckie;20.78;27173
+Zwoleń;zwoleński;mazowieckie;15.91;8065
+Bieżuń;żuromiński;mazowieckie;12.07;1890
+Żuromin;żuromiński;mazowieckie;11.18;9015
+Mszczonów;żyrardowski;mazowieckie;8.56;6445
+Żyrardów;żyrardowski;mazowieckie;14.35;41003
+Brzeg;brzeski;opolskie;14.61;36675
+Grodków;brzeski;opolskie;9.88;8816
+Lewin Brzeski;brzeski;opolskie;11.64;5940
+Baborów;głubczycki;opolskie;11.86;3009
+Głubczyce;głubczycki;opolskie;12.54;12911
+Kietrz;głubczycki;opolskie;18.74;6167
+Kędzierzyn-Koźle;kędzierzyńsko-kozielski;opolskie;123.71;62840
+Byczyna;kluczborski;opolskie;5.79;3678
+Kluczbork;kluczborski;opolskie;12.35;24410
+Wołczyn;kluczborski;opolskie;7.47;5967
+Gogolin;krapkowicki;opolskie;20.35;6529
+Krapkowice;krapkowicki;opolskie;21.01;16851
+Zdzieszowice;krapkowicki;opolskie;12.35;11899
+Namysłów;namysłowski;opolskie;22.61;16126
+Głuchołazy;nyski;opolskie;6.83;14092
+Korfantów;nyski;opolskie;10.23;1881
+Nysa;nyski;opolskie;27.51;44775
+Otmuchów;nyski;opolskie;27.82;5038
+Paczków;nyski;opolskie;6.6;7785
+Dobrodzień;oleski;opolskie;19.53;3773
+Gorzów Śląski;oleski;opolskie;18.54;2508
+Olesno;oleski;opolskie;15.08;9527
+Praszka;oleski;opolskie;9.35;7907
+Opole;Opole[a];opolskie;96.55;119574
+Niemodlin;opolski;opolskie;13.11;6586
+Ozimek;opolski;opolskie;3.25;9119
+Prószków;opolski;opolskie;16.22;2721
+Biała;prudnicki;opolskie;14.72;2496
+Głogówek;prudnicki;opolskie;22.06;5702
+Prudnik;prudnicki;opolskie;20.5;21676
+Kolonowskie;strzelecki;opolskie;55.7;3361
+Leśnica;strzelecki;opolskie;14.5;2690
+Strzelce Opolskie;strzelecki;opolskie;29.97;18373
+Ujazd;strzelecki;opolskie;14.76;1723
+Zawadzkie;strzelecki;opolskie;16.46;7493
+Ustrzyki Dolne;bieszczadzki;podkarpackie;16.79;9383
+Brzozów;brzozowski;podkarpackie;11.46;7548
+Brzostek;dębicki;podkarpackie;8.76;2716
+Dębica;dębicki;podkarpackie;33.83;46568
+Pilzno;dębicki;podkarpackie;16.04;4802
+Jarosław;jarosławski;podkarpackie;34.61;38796
+Pruchnik;jarosławski;podkarpackie;19.91;3747
+Radymno;jarosławski;podkarpackie;13.62;5433
+Jasło;jasielski;podkarpackie;36.52;36260
+Kołaczyce;jasielski;podkarpackie;7.15;1437
+Kolbuszowa;kolbuszowski;podkarpackie;7.94;9270
+Krosno;Krosno[a];podkarpackie;43.5;46934
+Dukla;krośnieński;podkarpackie;5.48;2122
+Iwonicz-Zdrój;krośnieński;podkarpackie;5.89;1839
+Jedlicze;krośnieński;podkarpackie;10.6;5775
+Rymanów;krośnieński;podkarpackie;12.39;3715
+Lesko;leski;podkarpackie;15.33;5615
+Leżajsk;leżajski;podkarpackie;20.58;14252
+Nowa Sarzyna;leżajski;podkarpackie;9.15;6102
+Cieszanów;lubaczowski;podkarpackie;15.06;1985
+Lubaczów;lubaczowski;podkarpackie;25.73;12416
+Narol;lubaczowski;podkarpackie;12.42;2107
+Oleszyce;lubaczowski;podkarpackie;5.08;3093
+Łańcut;łańcucki;podkarpackie;19.42;17982
+Mielec;mielecki;podkarpackie;46.89;60827
+Przecław;mielecki;podkarpackie;16.04;1723
+Radomyśl Wielki;mielecki;podkarpackie;8.79;3104
+Nisko;niżański;podkarpackie;60.96;15453
+Rudnik nad Sanem;niżański;podkarpackie;36.6;6811
+Ulanów;niżański;podkarpackie;8.2;1447
+Przemyśl;Przemyśl[a];podkarpackie;46.17;63441
+Kańczuga;przeworski;podkarpackie;7.6;3237
+Przeworsk;przeworski;podkarpackie;22.13;15681
+Sieniawa;przeworski;podkarpackie;6.74;2157
+Ropczyce;ropczycko-sędziszowski;podkarpackie;47.1;15722
+Sędziszów Małopolski;ropczycko-sędziszowski;podkarpackie;9.96;7492
+Błażowa;rzeszowski;podkarpackie;4.23;2188
+Boguchwała;rzeszowski;podkarpackie;9.11;5905
+Dynów;rzeszowski;podkarpackie;24.55;6178
+Głogów Małopolski;rzeszowski;podkarpackie;13.71;6190
+Sokołów Małopolski;rzeszowski;podkarpackie;15.54;4047
+Tyczyn;rzeszowski;podkarpackie;9.67;3638
+Rzeszów;Rzeszów[a];podkarpackie;116.36;185123
+Sanok;sanocki;podkarpackie;38.08;38818
+Zagórz;sanocki;podkarpackie;22.29;5073
+Stalowa Wola;stalowowolski;podkarpackie;82.52;63291
+Zaklików;stalowowolski;podkarpackie;11.42;3064
+Strzyżów;strzyżowski;podkarpackie;13.89;8955
+Tarnobrzeg;Tarnobrzeg[a];podkarpackie;85.4;48000
+Baranów Sandomierski;tarnobrzeski;podkarpackie;9.15;1463
+Nowa Dęba;tarnobrzeski;podkarpackie;16.7;11403
+Augustów;augustowski;podlaskie;80.9;30482
+Lipsk;augustowski;podlaskie;4.98;2440
+Choroszcz;białostocki;podlaskie;16.79;5759
+Czarna Białostocka;białostocki;podlaskie;14.28;9594
+Łapy;białostocki;podlaskie;12.14;15879
+Michałowo;białostocki;podlaskie;2.15;3153
+Supraśl;białostocki;podlaskie;5.69;4633
+Suraż;białostocki;podlaskie;33.86;1009
+Tykocin;białostocki;podlaskie;28.97;2012
+Wasilków;białostocki;podlaskie;28.26;10677
+Zabłudów;białostocki;podlaskie;14.3;2499
+Białystok;Białystok[a];podlaskie;102.13;295459
+Bielsk Podlaski;bielski;podlaskie;27.01;26249
+Brańsk;bielski;podlaskie;32.43;3854
+Grajewo;grajewski;podlaskie;18.94;22243
+Rajgród;grajewski;podlaskie;35.28;1625
+Szczuczyn;grajewski;podlaskie;13.23;3449
+Hajnówka;hajnowski;podlaskie;21.29;21422
+Kleszczele;hajnowski;podlaskie;46.71;1321
+Kolno;kolneński;podlaskie;25.07;10567
+Stawiski;kolneński;podlaskie;13.24;2342
+Łomża;Łomża[a];podlaskie;32.67;62779
+Jedwabne;łomżyński;podlaskie;4.54;1673
+Nowogród;łomżyński;podlaskie;20.55;2187
+Goniądz;moniecki;podlaskie;4.28;1892
+Knyszyn;moniecki;podlaskie;23.68;2853
+Mońki;moniecki;podlaskie;7.66;10275
+Sejny;sejneński;podlaskie;4.49;5640
+Drohiczyn;siemiatycki;podlaskie;15.69;2118
+Siemiatycze;siemiatycki;podlaskie;36.25;14725
+Dąbrowa Białostocka;sokólski;podlaskie;22.64;5796
+Krynki;sokólski;podlaskie;3.83;2515
+Sokółka;sokólski;podlaskie;18.59;18716
+Suchowola;sokólski;podlaskie;25.95;2236
+Suwałki;Suwałki[a];podlaskie;65.51;69316
+Ciechanowiec;wysokomazowiecki;podlaskie;19.53;4812
+Czyżew;wysokomazowiecki;podlaskie;5.23;2642
+Szepietowo;wysokomazowiecki;podlaskie;1.96;2278
+Wysokie Mazowieckie;wysokomazowiecki;podlaskie;15.24;9517
+Zambrów;zambrowski;podlaskie;19.02;22262
+Bytów;bytowski;pomorskie;8.72;17011
+Miastko;bytowski;pomorskie;5.68;10866
+Brusy;chojnicki;pomorskie;5.2;5093
+Chojnice;chojnicki;pomorskie;21.04;40056
+Czersk;chojnicki;pomorskie;9.73;10030
+Czarne;człuchowski;pomorskie;46.43;6052
+Człuchów;człuchowski;pomorskie;12.78;14224
+Debrzno;człuchowski;pomorskie;7.51;5185
+Gdańsk;Gdańsk[a];pomorskie;261.96;461489
+Pruszcz Gdański;gdański;pomorskie;16.47;29226
+Gdynia;Gdynia[a];pomorskie;135.14;247820
+Kartuzy;kartuski;pomorskie;6.8;14840
+Żukowo;kartuski;pomorskie;4.73;6532
+Kościerzyna;kościerski;pomorskie;15.86;23738
+Kwidzyn;kwidzyński;pomorskie;21.54;38757
+Prabuty;kwidzyński;pomorskie;7.29;8781
+Lębork;lęborski;pomorskie;17.86;35443
+Łeba;lęborski;pomorskie;14.81;3836
+Malbork;malborski;pomorskie;17.16;38950
+Nowy Staw;malborski;pomorskie;4.67;4330
+Krynica Morska;nowodworski;pomorskie;116.01;1335
+Nowy Dwór Gdański;nowodworski;pomorskie;5.07;10015
+Hel;pucki;pomorskie;21.72;3594
+Jastarnia;pucki;pomorskie;7.8;3866
+Puck;pucki;pomorskie;4.79;11321
+Władysławowo;pucki;pomorskie;12.59;10053
+Słupsk;Słupsk[a];pomorskie;43.15;93206
+Kępice;słupski;pomorskie;6.11;3737
+Ustka;słupski;pomorskie;10.19;16056
+Sopot;Sopot[a];pomorskie;17.28;37654
+Czarna Woda;starogardzki;pomorskie;9.94;2865
+Skarszewy;starogardzki;pomorskie;10.79;7057
+Skórcz;starogardzki;pomorskie;3.63;3551
+Starogard Gdański;starogardzki;pomorskie;25.28;48327
+Dzierzgoń;sztumski;pomorskie;3.9;5524
+Sztum;sztumski;pomorskie;4.59;10308
+Gniew;tczewski;pomorskie;6.04;6898
+Pelplin;tczewski;pomorskie;4.42;8225
+Tczew;tczewski;pomorskie;22.38;60573
+Reda;wejherowski;pomorskie;33.46;23565
+Rumia;wejherowski;pomorskie;30.1;47602
+Wejherowo;wejherowski;pomorskie;26.99;50292
+Będzin;będziński;śląskie;37.37;58205
+Czeladź;będziński;śląskie;16.38;32666
+Siewierz;będziński;śląskie;38.66;5495
+Sławków;będziński;śląskie;36.67;7135
+Wojkowice;będziński;śląskie;12.79;9033
+Czechowice-Dziedzice;bielski;śląskie;32.91;35632
+Szczyrk;bielski;śląskie;39.07;5799
+Wilamowice;bielski;śląskie;10.36;3033
+Bielsko-Biała;Bielsko-Biała[a];śląskie;124.51;173013
+Bieruń;bieruńsko-lędziński;śląskie;40.49;19636
+Imielin;bieruńsko-lędziński;śląskie;27.99;8723
+Lędziny;bieruńsko-lędziński;śląskie;31.65;16749
+Bytom;Bytom[a];śląskie;69.44;172306
+Chorzów;Chorzów[a];śląskie;33.24;110337
+Cieszyn;cieszyński;śląskie;28.61;35685
+Skoczów;cieszyński;śląskie;9.85;14625
+Strumień;cieszyński;śląskie;6.29;3642
+Ustroń;cieszyński;śląskie;59.03;16073
+Wisła;cieszyński;śląskie;110.17;11198
+Częstochowa;Częstochowa[a];śląskie;159.71;230123
+Blachownia;częstochowski;śląskie;36.66;9830
+Koniecpol;częstochowski;śląskie;36.92;6142
+Dąbrowa Górnicza;Dąbrowa Górnicza[a];śląskie;188.73;123376
+Gliwice;Gliwice[a];śląskie;133.88;184415
+Knurów;gliwicki;śląskie;33.95;38859
+Pyskowice;gliwicki;śląskie;30.89;18563
+Sośnicowice;gliwicki;śląskie;11.67;1854
+Toszek;gliwicki;śląskie;9.71;3615
+Jastrzębie-Zdrój;Jastrzębie-Zdrój[a];śląskie;85.33;90794
+Jaworzno;Jaworzno[a];śląskie;152.59;93331
+Katowice;Katowice[a];śląskie;164.64;301834
+Kłobuck;kłobucki;śląskie;47.46;13133
+Krzepice;kłobucki;śląskie;27.66;4462
+Lubliniec;lubliniecki;śląskie;89.36;24182
+Woźniki;lubliniecki;śląskie;71.01;4422
+Łaziska Górne;mikołowski;śląskie;20.07;22419
+Mikołów;mikołowski;śląskie;79.21;39795
+Orzesze;mikołowski;śląskie;83.79;20194
+Mysłowice;Mysłowice[a];śląskie;65.62;75037
+Koziegłowy;myszkowski;śląskie;26.71;2449
+Myszków;myszkowski;śląskie;73.59;32499
+Żarki;myszkowski;śląskie;25.44;4526
+Piekary Śląskie;Piekary Śląskie[a];śląskie;39.98;56755
+Pszczyna;pszczyński;śląskie;22.49;26028
+Krzanowice;raciborski;śląskie;3.08;2209
+Kuźnia Raciborska;raciborski;śląskie;31.49;5451
+Racibórz;raciborski;śląskie;75.01;55710
+Ruda Śląska;Ruda Śląska[a];śląskie;77.73;140669
+Czerwionka-Leszczyny;rybnicki;śląskie;37.63;28348
+Rybnik;Rybnik[a];śląskie;148.36;140052
+Siemianowice Śląskie;Siemianowice Śląskie[a];śląskie;25.5;68634
+Sosnowiec;Sosnowiec[a];śląskie;91.06;209274
+Świętochłowice;Świętochłowice[a];śląskie;13.31;51494
+Kalety;tarnogórski;śląskie;76.29;8626
+Miasteczko Śląskie;tarnogórski;śląskie;67.83;7383
+Radzionków;tarnogórski;śląskie;13.2;17050
+Tarnowskie Góry;tarnogórski;śląskie;83.72;60879
+Tychy;Tychy[a];śląskie;81.81;128621
+Pszów;wodzisławski;śląskie;20.44;14293
+Radlin;wodzisławski;śląskie;12.53;18028
+Rydułtowy;wodzisławski;śląskie;14.95;21763
+Wodzisław Śląski;wodzisławski;śląskie;49.51;48864
+Zabrze;Zabrze[a];śląskie;80.4;177188
+Łazy;zawierciański;śląskie;8.6;6972
+Ogrodzieniec;zawierciański;śląskie;28.56;4349
+Pilica;zawierciański;śląskie;8.22;1937
+Poręba;zawierciański;śląskie;39.99;8749
+Szczekociny;zawierciański;śląskie;18.03;3726
+Zawiercie;zawierciański;śląskie;85.25;50990
+Żory;Żory[a];śląskie;64.64;62051
+Żywiec;żywiecki;śląskie;50.54;31942
+Busko-Zdrój;buski;świętokrzyskie;12.28;16710
+Stopnica;buski;świętokrzyskie;4.55;1462
+Jędrzejów;jędrzejowski;świętokrzyskie;11.37;15698
+Małogoszcz;jędrzejowski;świętokrzyskie;9.68;3872
+Sędziszów;jędrzejowski;świętokrzyskie;7.92;6654
+Kazimierza Wielka;kazimierski;świętokrzyskie;5.33;5725
+Skalbmierz;kazimierski;świętokrzyskie;7.13;1313
+Kielce;Kielce[a];świętokrzyskie;109.65;198857
+Bodzentyn;kielecki;świętokrzyskie;8.65;2255
+Chęciny;kielecki;świętokrzyskie;14.13;4433
+Chmielnik;kielecki;świętokrzyskie;7.8;3877
+Daleszyce;kielecki;świętokrzyskie;15.5;2915
+Końskie;konecki;świętokrzyskie;17.7;20059
+Stąporków;konecki;świętokrzyskie;10.94;5947
+Opatów;opatowski;świętokrzyskie;9.36;6657
+Ożarów;opatowski;świętokrzyskie;7.79;4682
+Ćmielów;ostrowiecki;świętokrzyskie;13.34;3116
+Kunów;ostrowiecki;świętokrzyskie;7.26;3060
+Ostrowiec Świętokrzyski;ostrowiecki;świętokrzyskie;46.43;71728
+Działoszyce;pińczowski;świętokrzyskie;1.92;964
+Pińczów;pińczowski;świętokrzyskie;14.33;11179
+Koprzywnica;sandomierski;świętokrzyskie;17.9;2539
+Sandomierz;sandomierski;świętokrzyskie;28.69;24326
+Zawichost;sandomierski;świętokrzyskie;20.29;1863
+Skarżysko-Kamienna;skarżyski;świętokrzyskie;64.39;47212
+Suchedniów;skarżyski;świętokrzyskie;59.4;8667
+Starachowice;starachowicki;świętokrzyskie;31.82;50679
+Wąchock;starachowicki;świętokrzyskie;16.02;2848
+Osiek;staszowski;świętokrzyskie;17.43;2013
+Połaniec;staszowski;świętokrzyskie;17.41;8279
+Staszów;staszowski;świętokrzyskie;26.88;15298
+Włoszczowa;włoszczowski;świętokrzyskie;30.3;10417
+Bartoszyce;bartoszycki;warmińsko-mazurskie;11.79;24432
+Bisztynek;bartoszycki;warmińsko-mazurskie;2.16;2477
+Górowo Iławeckie;bartoszycki;warmińsko-mazurskie;3.32;4198
+Sępopol;bartoszycki;warmińsko-mazurskie;4.63;2013
+Braniewo;braniewski;warmińsko-mazurskie;12.41;17281
+Frombork;braniewski;warmińsko-mazurskie;7.59;2437
+Pieniężno;braniewski;warmińsko-mazurskie;3.81;2909
+Działdowo;działdowski;warmińsko-mazurskie;11.47;21489
+Lidzbark;działdowski;warmińsko-mazurskie;5.68;8092
+Elbląg;Elbląg[a];warmińsko-mazurskie;79.82;122368
+Młynary;elbląski;warmińsko-mazurskie;2.76;1817
+Pasłęk;elbląski;warmińsko-mazurskie;10.63;12406
+Tolkmicko;elbląski;warmińsko-mazurskie;2.29;2794
+Ełk;ełcki;warmińsko-mazurskie;21.05;60103
+Giżycko;giżycki;warmińsko-mazurskie;13.72;29932
+Ryn;giżycki;warmińsko-mazurskie;4.14;2910
+Gołdap;gołdapski;warmińsko-mazurskie;17.2;13748
+Iława;iławski;warmińsko-mazurskie;21.88;33344
+Kisielice;iławski;warmińsko-mazurskie;3.37;2131
+Lubawa;iławski;warmińsko-mazurskie;16.84;10098
+Susz;iławski;warmińsko-mazurskie;6.67;5694
+Zalewo;iławski;warmińsko-mazurskie;8.22;2185
+Kętrzyn;kętrzyński;warmińsko-mazurskie;10.35;27924
+Korsze;kętrzyński;warmińsko-mazurskie;4.03;4514
+Reszel;kętrzyński;warmińsko-mazurskie;3.82;4753
+Lidzbark Warmiński;lidzbarski;warmińsko-mazurskie;14.35;16332
+Orneta;lidzbarski;warmińsko-mazurskie;9.63;9057
+Mikołajki;mrągowski;warmińsko-mazurskie;9.32;3849
+Mrągowo;mrągowski;warmińsko-mazurskie;14.81;22135
+Nidzica;nidzicki;warmińsko-mazurskie;6.86;14258
+Nowe Miasto Lubawskie;nowomiejski;warmińsko-mazurskie;11.37;11180
+Olecko;olecki;warmińsko-mazurskie;11.54;16458
+Olsztyn;Olsztyn[a];warmińsko-mazurskie;88.33;173831
+Barczewo;olsztyński;warmińsko-mazurskie;4.58;7280
+Biskupiec;olsztyński;warmińsko-mazurskie;5;10600
+Dobre Miasto;olsztyński;warmińsko-mazurskie;4.86;10497
+Jeziorany;olsztyński;warmińsko-mazurskie;3.41;3319
+Olsztynek;olsztyński;warmińsko-mazurskie;7.69;7738
+Miłakowo;ostródzki;warmińsko-mazurskie;8.76;2632
+Miłomłyn;ostródzki;warmińsko-mazurskie;12.38;2444
+Morąg;ostródzki;warmińsko-mazurskie;6.11;14269
+Ostróda;ostródzki;warmińsko-mazurskie;14.15;33790
+Biała Piska;piski;warmińsko-mazurskie;3.24;4124
+Orzysz;piski;warmińsko-mazurskie;8.17;5799
+Pisz;piski;warmińsko-mazurskie;10.08;19562
+Ruciane-Nida;piski;warmińsko-mazurskie;17.07;4674
+Pasym;szczycieński;warmińsko-mazurskie;15.18;2542
+Szczytno;szczycieński;warmińsko-mazurskie;10.62;24185
+Węgorzewo;węgorzewski;warmińsko-mazurskie;10.88;11661
+Chodzież;chodzieski;wielkopolskie;12.77;19299
+Margonin;chodzieski;wielkopolskie;5.15;3027
+Szamocin;chodzieski;wielkopolskie;4.67;4337
+Czarnków;czarnkowsko-trzcianecki;wielkopolskie;10.04;11139
+Krzyż Wielkopolski;czarnkowsko-trzcianecki;wielkopolskie;5.81;6171
+Trzcianka;czarnkowsko-trzcianecki;wielkopolskie;18.3;17323
+Wieleń;czarnkowsko-trzcianecki;wielkopolskie;4.33;5995
+Czerniejewo;gnieźnieński;wielkopolskie;10.19;2637
+Gniezno;gnieźnieński;wielkopolskie;40.6;69686
+Kłecko;gnieźnieński;wielkopolskie;9.62;2681
+Trzemeszno;gnieźnieński;wielkopolskie;5.46;7848
+Witkowo;gnieźnieński;wielkopolskie;8.31;7974
+Borek Wielkopolski;gostyński;wielkopolskie;6.29;2538
+Gostyń;gostyński;wielkopolskie;11.09;20237
+Krobia;gostyński;wielkopolskie;7.05;4236
+Pogorzela;gostyński;wielkopolskie;4.36;2063
+Poniec;gostyński;wielkopolskie;3.48;2873
+Grodzisk Wielkopolski;grodziski;wielkopolskie;18.21;14392
+Rakoniewice;grodziski;wielkopolskie;3.37;3529
+Wielichowo;grodziski;wielkopolskie;1.24;1757
+Jarocin;jarociński;wielkopolskie;15.13;26394
+Żerków;jarociński;wielkopolskie;2.16;2149
+Stawiszyn;kaliski;wielkopolskie;0.99;1542
+Kalisz;Kalisz[a];wielkopolskie;69.42;103373
+Kępno;kępiński;wielkopolskie;7.79;14559
+Dąbie;kolski;wielkopolskie;8.8;2061
+Kłodawa;kolski;wielkopolskie;4.31;6635
+Koło;kolski;wielkopolskie;13.85;22834
+Przedecz;kolski;wielkopolskie;2.98;1753
+Konin;Konin[a];wielkopolskie;82.2;76547
+Golina;koniński;wielkopolskie;3.52;4498
+Kleczew;koniński;wielkopolskie;7.8;4230
+Rychwał;koniński;wielkopolskie;9.7;2385
+Sompolno;koniński;wielkopolskie;6.21;3612
+Ślesin;koniński;wielkopolskie;7.18;3151
+Czempiń;kościański;wielkopolskie;3.32;5278
+Kościan;kościański;wielkopolskie;8.79;23949
+Krzywiń;kościański;wielkopolskie;2.27;1635
+Śmigiel;kościański;wielkopolskie;5.3;5631
+Kobylin;krotoszyński;wielkopolskie;4.87;3263
+Koźmin Wielkopolski;krotoszyński;wielkopolskie;5.89;6701
+Krotoszyn;krotoszyński;wielkopolskie;22.54;29284
+Sulmierzyce;krotoszyński;wielkopolskie;29.29;2905
+Zduny;krotoszyński;wielkopolskie;6.2;4579
+Osieczna;leszczyński;wielkopolskie;4.76;2265
+Rydzyna;leszczyński;wielkopolskie;2.2;2790
+Leszno;Leszno[a];wielkopolskie;31.86;64616
+Międzychód;międzychodzki;wielkopolskie;6.98;10723
+Sieraków;międzychodzki;wielkopolskie;14.08;6089
+Lwówek;nowotomyski;wielkopolskie;3.16;3042
+Nowy Tomyśl;nowotomyski;wielkopolskie;5.2;14974
+Opalenica;nowotomyski;wielkopolskie;6.42;9621
+Zbąszyń;nowotomyski;wielkopolskie;5.42;7235
+Oborniki;obornicki;wielkopolskie;14.08;18426
+Rogoźno;obornicki;wielkopolskie;11.24;11229
+Nowe Skalmierzyce;ostrowski;wielkopolskie;1.58;4871
+Odolanów;ostrowski;wielkopolskie;4.76;5134
+Ostrów Wielkopolski;ostrowski;wielkopolskie;41.9;72754
+Raszków;ostrowski;wielkopolskie;2.05;2080
+Grabów nad Prosną;ostrzeszowski;wielkopolskie;2.58;1969
+Mikstat;ostrzeszowski;wielkopolskie;2.52;1884
+Ostrzeszów;ostrzeszowski;wielkopolskie;12.13;14511
+Łobżenica;pilski;wielkopolskie;3.25;2997
+Piła;pilski;wielkopolskie;102.68;74333
+Ujście;pilski;wielkopolskie;5.78;3802
+Wyrzysk;pilski;wielkopolskie;4.12;5179
+Wysoka;pilski;wielkopolskie;4.82;2707
+Chocz;pleszewski;wielkopolskie;6.88;1808
+Dobrzyca;pleszewski;wielkopolskie;19.7;3167
+Pleszew;pleszewski;wielkopolskie;13.38;17717
+Poznań;Poznań[a];wielkopolskie;261.91;545680
+Buk;poznański;wielkopolskie;2.96;6188
+Kostrzyn;poznański;wielkopolskie;7.98;9542
+Kórnik;poznański;wielkopolskie;5.99;7684
+Luboń;poznański;wielkopolskie;13.51;30813
+Mosina;poznański;wielkopolskie;13.5;13220
+Murowana Goślina;poznański;wielkopolskie;8.62;10508
+Pobiedziska;poznański;wielkopolskie;10.24;9091
+Puszczykowo;poznański;wielkopolskie;16.39;9802
+Stęszew;poznański;wielkopolskie;5.69;5903
+Swarzędz;poznański;wielkopolskie;8.23;31035
+Bojanowo;rawicki;wielkopolskie;2.34;2975
+Jutrosin;rawicki;wielkopolskie;1.62;1928
+Miejska Górka;rawicki;wielkopolskie;3.14;3253
+Rawicz;rawicki;wielkopolskie;7.74;20779
+Słupca;słupecki;wielkopolskie;10.3;14016
+Zagórów;słupecki;wielkopolskie;3.44;3076
+Obrzycko;szamotulski;wielkopolskie;3.74;2393
+Ostroróg;szamotulski;wielkopolskie;1.25;1989
+Pniewy;szamotulski;wielkopolskie;9.32;7982
+Szamotuły;szamotulski;wielkopolskie;11.08;18831
+Wronki;szamotulski;wielkopolskie;5.81;11473
+Środa Wielkopolska;średzki;wielkopolskie;17.98;22661
+Dolsk;śremski;wielkopolskie;6.2;1575
+Książ Wielkopolski;śremski;wielkopolskie;1.96;2776
+Śrem;śremski;wielkopolskie;12.37;30036
+Dobra;turecki;wielkopolskie;1.84;1427
+Tuliszków;turecki;wielkopolskie;7;3379
+Turek;turecki;wielkopolskie;16.17;27926
+Gołańcz;wągrowiecki;wielkopolskie;12.64;3397
+Skoki;wągrowiecki;wielkopolskie;11.2;4175
+Wągrowiec;wągrowiecki;wielkopolskie;17.83;25266
+Wolsztyn;wolsztyński;wielkopolskie;4.78;13552
+Miłosław;wrzesiński;wielkopolskie;4.07;3589
+Nekla;wrzesiński;wielkopolskie;19.79;3655
+Pyzdry;wrzesiński;wielkopolskie;12.16;3220
+Września;wrzesiński;wielkopolskie;12.73;29735
+Jastrowie;złotowski;wielkopolskie;72.3;8703
+Krajenka;złotowski;wielkopolskie;3.76;3797
+Okonek;złotowski;wielkopolskie;6.01;3979
+Złotów;złotowski;wielkopolskie;11.58;18492
+Białogard;białogardzki;zachodniopomorskie;25.73;24571
+Karlino;białogardzki;zachodniopomorskie;9.4;5989
+Tychowo;białogardzki;zachodniopomorskie;3.96;2555
+Choszczno;choszczeński;zachodniopomorskie;9.58;15575
+Drawno;choszczeński;zachodniopomorskie;5.03;2340
+Pełczyce;choszczeński;zachodniopomorskie;13.07;2635
+Recz;choszczeński;zachodniopomorskie;12.4;2955
+Czaplinek;drawski;zachodniopomorskie;13.62;7201
+Drawsko Pomorskie;drawski;zachodniopomorskie;22.33;11828
+Kalisz Pomorski;drawski;zachodniopomorskie;11.96;4356
+Złocieniec;drawski;zachodniopomorskie;32.28;13190
+Goleniów;goleniowski;zachodniopomorskie;11.78;22747
+Maszewo;goleniowski;zachodniopomorskie;5.54;3374
+Nowogard;goleniowski;zachodniopomorskie;12.44;16821
+Stepnica;goleniowski;zachodniopomorskie;3.4;2446
+Gryfice;gryficki;zachodniopomorskie;12.4;16853
+Płoty;gryficki;zachodniopomorskie;4.12;4048
+Trzebiatów;gryficki;zachodniopomorskie;10.25;10153
+Cedynia;gryfiński;zachodniopomorskie;1.67;1631
+Chojna;gryfiński;zachodniopomorskie;12.58;7382
+Gryfino;gryfiński;zachodniopomorskie;9.58;21565
+Mieszkowice;gryfiński;zachodniopomorskie;4.73;3594
+Moryń;gryfiński;zachodniopomorskie;5.54;1608
+Trzcińsko-Zdrój;gryfiński;zachodniopomorskie;2.33;2418
+Dziwnów;kamieński;zachodniopomorskie;4.97;2724
+Golczewo;kamieński;zachodniopomorskie;7.42;2725
+Kamień Pomorski;kamieński;zachodniopomorskie;10.74;9020
+Międzyzdroje;kamieński;zachodniopomorskie;4.5;5475
+Wolin;kamieński;zachodniopomorskie;14.47;4919
+Gościno;kołobrzeski;zachodniopomorskie;5.7;2424
+Kołobrzeg;kołobrzeski;zachodniopomorskie;25.67;46720
+Koszalin;Koszalin[a];zachodniopomorskie;98.34;108605
+Bobolice;koszaliński;zachodniopomorskie;4.77;4204
+Polanów;koszaliński;zachodniopomorskie;7.37;3005
+Sianów;koszaliński;zachodniopomorskie;15.88;6676
+Dobra;łobeski;zachodniopomorskie;2.37;2338
+Łobez;łobeski;zachodniopomorskie;12.84;10409
+Resko;łobeski;zachodniopomorskie;4.49;4325
+Węgorzyno;łobeski;zachodniopomorskie;6.85;2902
+Barlinek;myśliborski;zachodniopomorskie;17.55;14180
+Dębno;myśliborski;zachodniopomorskie;19.51;14039
+Myślibórz;myśliborski;zachodniopomorskie;15.04;11512
+Nowe Warpno;policki;zachodniopomorskie;24.51;1226
+Police;policki;zachodniopomorskie;37.31;33404
+Lipiany;pyrzycki;zachodniopomorskie;5.54;4045
+Pyrzyce;pyrzycki;zachodniopomorskie;38.79;12769
+Darłowo;sławieński;zachodniopomorskie;20.21;14059
+Sławno;sławieński;zachodniopomorskie;15.83;12825
+Chociwel;stargardzki;zachodniopomorskie;3.67;3237
+Dobrzany;stargardzki;zachodniopomorskie;5.34;2352
+Ińsko;stargardzki;zachodniopomorskie;7.48;2031
+Stargard;stargardzki;zachodniopomorskie;48.08;68922
+Suchań;stargardzki;zachodniopomorskie;3.57;1459
+Szczecin;Szczecin[a];zachodniopomorskie;300.55;407180
+Barwice;szczecinecki;zachodniopomorskie;7.52;3800
+Biały Bór;szczecinecki;zachodniopomorskie;12.82;2210
+Borne Sulinowo;szczecinecki;zachodniopomorskie;18.15;4903
+Szczecinek;szczecinecki;zachodniopomorskie;48.48;40535
+Połczyn-Zdrój;świdwiński;zachodniopomorskie;7.21;8418
+Świdwin;świdwiński;zachodniopomorskie;22.38;15588
+Świnoujście;Świnoujście[a];zachodniopomorskie;197.23;41276
+Człopa;wałecki;zachodniopomorskie;6.27;2345
+Mirosławiec;wałecki;zachodniopomorskie;2.17;3040
+Tuczno;wałecki;zachodniopomorskie;9.21;1956
+Wałcz;wałecki;zachodniopomorskie;38.17;26033
